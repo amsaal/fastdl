@@ -1,0 +1,18 @@
+Bank - Hostage Rescue
+by HOTWIRE 
+(simon@millbourne.freeserve.co.uk)
+
+Background:
+Terrorists have taken over the high-street
+bank and are holding 4 hostages.
+
+Counter-Terrorists: 
+Enter the bank and escort the hostages 
+across the street. Try to take out the 
+Terrorists without jeopardizing the hostages.
+
+Terrorists:
+Eliminate the Counter-Terrorist
+force before they rescue the hostages.
+
+(Press FIRE to continue)
