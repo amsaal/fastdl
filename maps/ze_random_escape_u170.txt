@@ -1,0 +1,27 @@
+// Zombie Escape Mod
+// Random Escape Update 2.0
+
+# Authors
+ > Map By : LiZou Mapper and ALG Mapper 
+ > Map Created for Dark Professional 
+ 
+# Description Map : 
+ - Map is place not located in world, RANDOM ! (simple)
+ 
+# Change Log : 
+= ?/1/2020 (by ALG) (1.0)
+ - Release 
+ 
+= 10/02/2020 (by LiZou) (1.7)
+ - Fix Bugs 
+ - Add 20 Spawn Points
+ - Increase in length map MAP++
+ - Change method escape 
+ - Add Countdown defense place (Timeleft)
+ - Add 2 Defense Place 
+ - Change Texture something
+ 
+# contact me 
+ - my blog : lizoumappercs.ga
+ - my fb : facebook.com/lizoumappercs
+ - my steam : lizouma

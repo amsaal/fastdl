@@ -1,0 +1,5 @@
+{
+"Map": "ze_jun",
+"By": "Alg-MapPer",
+"discord": "https://discord.gg/6EhSP2aA8k"
+}
