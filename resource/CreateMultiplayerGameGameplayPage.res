@@ -6,7 +6,7 @@
 		"fieldName"		"GameOptions"
 		"xpos"		"10"
 		"ypos"		"10"
-		"wide"		"420"
+		"wide"		"320"
 		"tall"		"325"
 		"autoResize"		"0"
 		"pinCorner"		"0"

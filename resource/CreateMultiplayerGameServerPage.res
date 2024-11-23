@@ -204,23 +204,4 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
-	"EnableSteamNetworkingCheck"
-	{
-		"ControlName"		"CheckButton"
-		"fieldName"		"EnableSteamNetworkingCheck"
-		"xpos"		"21"
-		"ypos"		"83"
-		"wide"		"320"
-		"tall"		"24"
-		"autoResize"		"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"		"2"
-		"labelText"		"#Valve_Enable_SteamNetworking"
-		"textAlignment"		"west"
-		"dulltext"		"0"
-		"brighttext"		"0"
-		"Default"		"1"
-	}
 }
